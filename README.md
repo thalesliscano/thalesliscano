@@ -16,6 +16,6 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/python-v3.7-blue" />
     
 </div><br/>
-### Estou estudando para aprimorar meus conhecimentos e me desenvolver tanto como pessoa quanto como profissional, no momentos estou cursando faculdade e me aprofundando em back-end, mas sei um pouco de front-end.
+## Estou estudando para aprimorar meus conhecimentos e me desenvolver tanto como pessoa quanto como profissional, no momentos estou cursando faculdade e me aprofundando em back-end, mas sei um pouco de front-end.
 
 
