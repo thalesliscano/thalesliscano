@@ -17,6 +17,6 @@
     
 </div><br/>  
 
-## Estou estudando para aprimorar meus conhecimentos e me desenvolver tanto como pessoa quanto como profissional, no momento estou cursando faculdade e me aprofundando em back-end, mas sei um pouco de front-end.
+## Estou estudando para aprimorar meus conhecimentos e me desenvolver tanto como pessoa quanto como profissional; no momento estou cursando Graduação e me aprofundando em back-end; mas sei um pouco de front-end.
 
 
